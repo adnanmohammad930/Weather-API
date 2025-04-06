@@ -8,7 +8,7 @@ const app = express();
 const PORT = 3000;
 
 // API Key (Replace with your actual key)
-const API_KEY = "6dd9e67eac964c6dcbbd62809fffb9c6";
+const API_KEY = "enter your token key";
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 const __filename = fileURLToPath(import.meta.url);
